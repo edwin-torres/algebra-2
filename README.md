@@ -97,4 +97,4 @@ Free to use, adapt, and share with attribution.
 ---
 
 ## 🙌 Acknowledgments
-Developed by **Edwin Torres** as part of open-education initiatives supporting equitable access to mathematics learning, inspired by the mission of **Khan Academy** to deliver a free, world-class education to anyone, anywhere.
+Developed by **Edwin Torres** as part of open-education initiatives supporting equitable access to mathematics learning.
